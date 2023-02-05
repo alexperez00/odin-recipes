@@ -25,7 +25,12 @@ button {
     font-size: .8cm;
     border-color: rgb(69, 190, 255);
     border-width: .2cm;
+    
     font-family: 'Courier New', monospace;
+}
+
+button:hover {
+    background: rgb(69, 190, 255)
 }
 
 p {
