@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+}
+h1 {
+    text-align: center;
+    color: white;
+    font-family: 'Courier New', monospace;
+} 
+
+img {
+    height: 300px;
+    border-radius: 50px;
+    display: block;
+    margin: auto;
+    width: 50% 20px;
+    margin-bottom: 20px;
+}
+
+.ing {
+    background-color: rgb(255, 255, 255);
+    display: block;
+    border-radius: 40px;
+    padding: 10px;
+    border: 5px groove aqua
+}
+
+li, ol {
+    margin: auto;
+    width: 50% 20px;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Courier New', monospace;
+}
+
+.steps {
+    background-color: rgb(255, 255, 255);
+    display: block;
+    border-radius: 40px;
+    padding: 10px;
+    border: 5px groove aqua;
+    margin-top: 20px;
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+      

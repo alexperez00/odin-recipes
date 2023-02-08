@@ -8,6 +8,7 @@ h1 {
     color: rgb(255, 255, 255);
     font-family: 'Courier New', monospace;
     margin-bottom: -.07cm;
+    margin-top: .05cm;
 }
 img {
     display: block;
